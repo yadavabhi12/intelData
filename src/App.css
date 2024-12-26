@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:  Poppins, Arial, Helvetica, sans-serif !important;
+    background: linear-gradient(193.19deg, rgba(199, 178, 253, .35) 3.09%, rgba(255, 237, 241, .35) 83.65%);
+}
